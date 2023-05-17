@@ -1,4 +1,4 @@
 django
 stripe
 pillow
-db-sqlite3
+pysqlite
